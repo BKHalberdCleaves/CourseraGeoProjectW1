@@ -1,0 +1,18 @@
+# CourseraGeoProjectW1
+
+Background:
+  Toronto is a massive metropolitan hub of business, technology, and life, being the largest city in Canada (fourth largest in the whole of North America), with over 6.4 million inhabitants and almost 100,000 new arrivals annually. While it boasts six-internationally recognized colleges and five world-reknowned universities, many inhabitants are still in the beginning stages of their educations with approx. 246,000 students in elementary and secondary schools aside from the 140,000 more in adult and continuing education programs, and 1,400 education centers and related businesses throughout the city.
+  
+Problem:
+  When parents are searching for a good place to raise their children and get them an education, there are a multitude of factors they must consider. Parents want more than anything to know that their children will be informed and safe about their health as well as their grades, especially as they grow and more independent as they age and seek out new experiences. This report will focus on providing relevant information on sources of youth sexual health support services, information and care and their closeness to schools when parents or guardians are searching for the best place to send their children to school, such as when they're transferring or moving into the Toronto area from elsewhere, as well as information about the centers themselves.
+  
+Data Sources:
+  The geographical data of Toronto, such neighbourhood, data, and postal code were scraped from Wikipedia and coordinates were downloaded through the Coursera portal. Information on and the locations of educational facilities and youth sexual health service centers were downloaded as datasets from the Toronto open data portal. And outline for the data contained in both data tables can be found in the links below:
+  
+  Background sources:
+  https://torontoglobal.ca/Discover-Toronto-region/Toronto-region-quick-facts
+  https://www.toronto.ca/business-economy/industry-sector-support/education/
+  
+  Data table Sources:
+  https://open.toronto.ca/dataset/school-locations-all-types/
+  https://open.toronto.ca/dataset/wellbeing-youth-sexual-health-services/
